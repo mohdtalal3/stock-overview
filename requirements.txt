@@ -1,0 +1,10 @@
+streamlit
+scrapy
+beautifulsoup4
+selenium
+Pillow
+plotly
+pandas
+sqlite-database
+datetime
+streamlit-aggrid
