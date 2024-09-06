@@ -1,0 +1,704 @@
+{
+  "Letterbox shipments": {
+    "Envelops": {
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/standaard",
+      "products": [
+        {
+          "Name": "A11 Luchtkussen enveloppen 100 x 165",
+          "link": "https://verpakgigant.nl/product/a11-luchtkussen-enveloppen-100-x-165/"
+        },
+        {
+          "Name": "B12 Luchtkussen enveloppen 120 x 215",
+          "link": "https://verpakgigant.nl/product/b12-luchtkussen-enveloppen-120-x-215/"
+        },
+        {
+          "Name": "Vierkante Luchtkussen Enveloppen 180 x 165",
+          "link": "https://verpakgigant.nl/product/vierkante-luchtkussen-enveloppen-180-x-165/"
+        },
+        {
+          "Name": "C13 CD Formaat Luchtkussen Enveloppen 150 x 215",
+          "link": "https://verpakgigant.nl/product/c13-cd-formaat-luchtkussen-enveloppen-150-x-215/"
+        },
+        {
+          "Name": "D14 DVD-Formaat Luchtkussen Enveloppen 180 x 265",
+          "link": "https://verpakgigant.nl/product/d14-dvd-formaat-luchtkussen-enveloppen-180-x-265/"
+        },
+        {
+          "Name": "E15 Luchtkussen Enveloppen 220 x 260",
+          "link": "https://verpakgigant.nl/product/e15-luchtkussen-enveloppen-220-x-260/"
+        },
+        {
+          "Name": "E15 Extra Strong Enveloppen 220 x 265",
+          "link": "https://verpakgigant.nl/product/e15-extra-strong-enveloppen-220-x-265/"
+        },
+        {
+          "Name": "F16 Luchtkussen Enveloppen 220 x 340",
+          "link": "https://verpakgigant.nl/product/f16-luchtkussen-enveloppen-220-x-340/"
+        },
+        {
+          "Name": "G17 Luchtkussen Enveloppen 230 x 340",
+          "link": "https://verpakgigant.nl/product/g17-luchtkussen-enveloppen-230-x-340/"
+        },
+        {
+          "Name": "G17 Luchtkussen Enveloppen – Pallet Voordeel",
+          "link": "https://verpakgigant.nl/product/g17-luchtkussen-enveloppen-palletvoordeel/"
+        },
+        {
+          "Name": "H18 Luchtkussen enveloppen 270 x 360",
+          "link": "https://verpakgigant.nl/product/h18-luchtkussen-enveloppen-270-x-360/"
+        },
+        {
+          "Name": "I19 – Luchtkussen enveloppen 300 x 445",
+          "link": "https://verpakgigant.nl/product/i19-luchtkussen-enveloppen-300-x-445/"
+        },
+        {
+          "Name": "K20 Luchtkussen enveloppen 350 x 470",
+          "link": "https://verpakgigant.nl/product/k20-luchtkussen-enveloppen-350-x-470/"
+        }
+      ]
+    },
+    "Letterbox Boxes": {
+      "url": "https://verpakgigant.nl/c/verzenddozen/brievenbusdozen/alle/",
+      "products": [
+        {
+          "Name": "Brievenbusdoos A6 Bovenklep Bruin – Sluitlip (180 x 115 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a6-180-x-115-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A6 Bovenklep Wit – Sluitlip (180 x 115 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a6-bovenklep-wit-180-x-115-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A6 Bovenklep Wit (180 x 115 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a6-bovenklep-wit-180-x-115-x-28/"
+        },
+        {
+          "Name": "Brievenbusdoos A6 Zijklep Wit (180 x 115 x 28 mm)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a6-wit-180-x-115-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A5+ Bovenklep Bruin – Sluitlip (255 x 160 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a5-255-x-160-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A5+ Bovenklep Wit – Sluitlip (255 x 160 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a5-wit-bovenklep-255-x-160-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A5+ Bovenklep Wit (255 x 160 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a5-bovenklep-wit-350-x-250-x-28/"
+        },
+        {
+          "Name": "Brievenbusdoos A5+ Zijklep Wit (255 x 160 x 28 mm)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a5-wit-255-x-160-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A4 Bovenklep Bruin – Sluitlip (310 x 220 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-bovenklep-bruin-310-x-220-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A4 Bovenklep Wit – Sluitlip (310 x 220 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-bovenklep-wit-299-x-213-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A4 Bovenklep Wit (310 x 220 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-bovenklep-wit-310-x-220-x-28/"
+        },
+        {
+          "Name": "Brievenbusdoos A4 Zijklep Wit (310 x 220 x 28 mm)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-wit-299-x-213-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A4+ Bovenklep Bruin – Sluitlip (350 x 250 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-350-x-250-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A4+ Bovenklep Wit – Sluitlip (350 x 250 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-bovenklep-wit-350-x-250-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A4+ Bovenklep Wit (350 x 250 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-350-x-250-x-28/"
+        },
+        {
+          "Name": "Brievenbusdoos A4+ Zijklep Wit (350 x 250 x 28 mm)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-wit-350-x-250-x-28-mm/"
+        },
+        {
+          "Name": "Brievenbusdoos A4+ Bovenklep Bruin (350 x 250 x 28)",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-a4-bovenklep-bruin-350-x-250-x-28/"
+        },
+        {
+          "Name": "Brievenbusdoos 255 x 170 x 27 mm",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-255-x-170-x-27/"
+        },
+        {
+          "Name": "Brievenbusdoos 350 x 250 x 27 mm",
+          "link": "https://verpakgigant.nl/product/brievenbusdoos-250-x-27-x-350mm/"
+        }
+      ]
+    },
+    "Plastic Shipping Bags": {
+      "url": "https://verpakgigant.nl/c/verzendzakken/plastic-coex-verzendzakken",
+      "products": [
+        {
+          "Name": "Coex verzendzakken 175 x 255",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-175-x-255/"
+        },
+        {
+          "Name": "Coex verzendzakken 225 x 325",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-225-x-325/"
+        },
+        {
+          "Name": "Coex verzendzakken 240 x 350",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-240-x-350/"
+        },
+        {
+          "Name": "Coex verzendzakken 325 x 425",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-325-x-425/"
+        },
+        {
+          "Name": "Coex verzendzakken 350 x 450",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-350-x-450/"
+        },
+        {
+          "Name": "Coex verzendzakken 400 x 500",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-400-x-500/"
+        },
+        {
+          "Name": "Coex verzendzakken 450 x 550",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-450-x-550/"
+        },
+        {
+          "Name": "Coex verzendzakken 550 x 770",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-550-x-770/"
+        },
+        {
+          "Name": "Coex verzendzakken 600 x 900",
+          "link": "https://verpakgigant.nl/product/coex-verzendzakken-600-x-900/"
+        }
+      ]
+    },
+    "Shipping labels": {
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/papier-etiketten/verzendlabels",
+      "products": [
+        {
+          "Name": "Verzendlabels Zebra – 102 mm x 150 mm (Kern 25 mm)",
+          "link": "https://verpakgigant.nl/product/zebra-verzendetiketten-102mm-x-150mm/"
+        },
+        {
+          "Name": "Zebra Verzendetiketten 102 mm x 210 mm (Kern 25 mm)",
+          "link": "https://verpakgigant.nl/product/zebra-verzendetiketten-102-mm-x-210-mm-kern-25-mm/"
+        },
+        {
+          "Name": "Zebra Verzendetiketten 102 mm x 150 mm (Kern 76 mm)",
+          "link": "https://verpakgigant.nl/product/zebra-verzendetiketten-102-mm-x-150-mm-kern-76-mm/"
+        },
+        {
+          "Name": "Zebra Verzendetiketten 102 mm x 210 mm (Kern 76 mm)",
+          "link": "https://verpakgigant.nl/product/zebra-verzendetiketten-102-mm-x-210-mm-kern-76-mm/"
+        },
+        {
+          "Name": "Xerox A4 Printer Etiketten",
+          "link": "https://verpakgigant.nl/product/xerox-a4-printer-etiketten/"
+        },
+        {
+          "Name": "Dymo 4XL Verzendetiketten – 104 x 159 mm",
+          "link": "https://verpakgigant.nl/product/dymo-4xl-verzendetiketten-104-x-159-mm/"
+        },
+        {
+          "Name": "Dymo 99010 Labels (89 mm x 28 mm) – 130 Labels",
+          "link": "https://verpakgigant.nl/product/dymo-99010-labels-89-mm-x-28-mm-130-labels/"
+        },
+        {
+          "Name": "Dymo 99012 Labels (89 mm x 36 mm) – 260 Labels",
+          "link": "https://verpakgigant.nl/product/dymo-99012-labels-89-mm-x-36-mm-260-labels/"
+        },
+        {
+          "Name": "Dymo 99014 Labels (101 mm x 54 mm) – 220 Labels",
+          "link": "https://verpakgigant.nl/product/dymo-99014-labels-101-mm-x-54-mm-220-labels/"
+        },
+        {
+          "Name": "Dymo 11352 Labels (54 mm x 25 mm) – 500 Labels",
+          "link": "https://verpakgigant.nl/product/dymo-11352-labels-54-mm-x-25-mm-500-labels/"
+        },
+        {
+          "Name": "Labelprinter – Direct Thermisch – USB",
+          "link": "https://verpakgigant.nl/product/labelprinter-standaard/"
+        }
+      ]
+    }
+  },
+  "Boxes & Shipping Packaging": {
+    "Single Wall Folding Boxes": {
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/amerikaanse-vouwdozen/enkelgolf",
+      "products": [
+        {
+          "Name": "Amerikaanse Vouwdoos 140 x 100 x 90 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-vouwdoos-140-x-100-x-90-b-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 150 x 110 x 110 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-vouwdoos-150-x-110-x-110-b-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 150 x 150 x 150 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-vouwdoos-150-x-150-x-150-b-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 160 x 120 x 110 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-vouwdoos-160-x-120-x-110-b-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 160 x 160 x 90 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-vouwdoos-160-x-160-x-90-b-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 180 x 130 x 120 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-vouwdoos-180-x-130-x-120-b-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 180 x 130 x 120 – C-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-vouwdoos-180-x-130-x-120-c-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 186 x 124 x 88 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-186-x-124-x-88/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 140 x 140 – C-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-140-x-140/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 150 x 50 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-150-x-50/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 150 x 90 – C-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-150-x-90/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 150 x 100 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-150-x-100/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 150 x 120 – C-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-150-x-120/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 150 x 150 – C-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-150-x-150-c-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 150 x 150 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-150-x-150/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 200 x 100 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-200-x-100/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 200 x 150 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-200-x-150/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 200 x 200 – C-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-200-x-200-c-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 200 x 200 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-200-x-200/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 215 x 155 x 85 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-215-x-155-x-85/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 220 x 160 x 130 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-220-x-160-x-130/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 220 x 180 x 160 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-220-x-180-x-160/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 220 x 210 x 110 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-220-x-210-x-110/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 230 x 190 x 120 – B-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-230-x-190-x-120/"
+        }
+      ]
+    },
+    "Double-wall folding boxes": {
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/amerikaanse-vouwdozen/dubbelgolf",
+      "products": [
+        {
+          "Name": "Amerikaanse Vouwdoos 188 x 188 x 177 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-188-x-188-x-177/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 150 x 120 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-150-x-120-dubbelgolf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 200 x 200 x 200 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-200-x-200-x-200-dubbelgolf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 250 x 180 x 140 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-250-x-180-x-140-dubbelgolf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 250 x 250 x 250 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-250-x-250-x-250-dubbelgolf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 280 x 280 x 100 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-280-x-280-x-100/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 280 x 280 x 150 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-280-x-280-x-150/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 280 x 280 x 200 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-280-x-280-x-200/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 300 x 200 x 170 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-300-x-200-x-170-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 300 x 200 x 200 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-300-x-200-x-200-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 300 x 250 x 200 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-300-x-250-x-200-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 300 x 300 x 200 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-300-x-300-x-200/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 300 x 300 x 300 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-300-x-300-x-300-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 310 x 220 x 100 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-310-x-220-x-100/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 310 x 220 x 150 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-310-x-220-x-150-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 310 x 220 x 200 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-310-x-220-x-200-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 310 x 220 x 250 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-310-x-220-x-250/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 310 x 220 x 300 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-310-x-220-x-300-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 350 x 220 x 200 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-350-x-220-x-200-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 350 x 230 x 260 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-350-x-230-x-260/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 325 x 240 x 250 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-325-x-240-x-250/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 350 x 270 x 140 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-350-x-270-x-140/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 350 x 350 x 250 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-350-x-350-x-250-bc-golf/"
+        },
+        {
+          "Name": "Amerikaanse Vouwdoos 350 x 350 x 350 – BC-Golf",
+          "link": "https://verpakgigant.nl/product/amerikaanse-verzenddoos-350-x-350-x-350-bc-golf/"
+        }
+      ]
+    },
+    "Autolock Boxes": {
+      "url": "https://verpakgigant.nl/c/verzenddozen/autolock-dozen",
+      "products": [
+        {
+          "Name": "Autolock Dozen (160 x 130 x 70 mm)",
+          "link": "https://verpakgigant.nl/product/autolock-dozen-160-x-130-x-70-mm/"
+        },
+        {
+          "Name": "Autolock Dozen (213 x 153 x 109 mm)",
+          "link": "https://verpakgigant.nl/product/autolock-dozen-213-x-153-x-109-mm/"
+        },
+        {
+          "Name": "Autolock Dozen (210 x 180 x 130 mm)",
+          "link": "https://verpakgigant.nl/product/autolock-dozen-210-x-180-x-130-mm/"
+        },
+        {
+          "Name": "Autolock Dozen (230 x 160 x 80 mm)",
+          "link": "https://verpakgigant.nl/product/autolock-dozen-230-x-160-x-80-mm/"
+        },
+        {
+          "Name": "Autolock Dozen A4 formaat (310 x 230 x 160 mm)",
+          "link": "https://verpakgigant.nl/product/autolock-dozen-a4-formaat-310-x-230-x-160-mm/"
+        }
+      ]
+    },
+    "Postal boxes": {
+      "url": "https://verpakgigant.nl/c/verzenddozen/postdozen",
+      "products": [
+        {
+          "Name": "Postdozen 100 x 80 x 60",
+          "link": "https://verpakgigant.nl/product/postdozen-100-x-80-x-60/"
+        },
+        {
+          "Name": "Postdozen 120 x 70 x 40",
+          "link": "https://verpakgigant.nl/product/postdozen-120-x-70-x-40/"
+        },
+        {
+          "Name": "Postdozen 150 x 100 x 70",
+          "link": "https://verpakgigant.nl/product/postdozen-150-x-100-x-70/"
+        },
+        {
+          "Name": "Postdozen 120 x 100 x 80",
+          "link": "https://verpakgigant.nl/product/postdozen-120-x-100-x-80/"
+        },
+        {
+          "Name": "Postdozen 150 x 150 x 60",
+          "link": "https://verpakgigant.nl/product/postdozen-150-x-150-x-60/"
+        },
+        {
+          "Name": "Postdozen 160 x 80 x 80",
+          "link": "https://verpakgigant.nl/product/postdozen-160-x-80-x-80/"
+        },
+        {
+          "Name": "Postdozen 180 x 100 x 50",
+          "link": "https://verpakgigant.nl/product/postdozen-180-x-100-x-50/"
+        },
+        {
+          "Name": "Postdozen 200 x 100 x 100",
+          "link": "https://verpakgigant.nl/product/postdozen-200-x-100-x-100/"
+        },
+        {
+          "Name": "Postdozen 200 x 140 x 75",
+          "link": "https://verpakgigant.nl/product/postdozen-200-x-140-x-75/"
+        },
+        {
+          "Name": "Postdozen 200 x 200 x 70",
+          "link": "https://verpakgigant.nl/product/postdozen-200-x-200-x-70/"
+        },
+        {
+          "Name": "Postdozen 240 x 170 x 50",
+          "link": "https://verpakgigant.nl/product/postdozen-240-x-170-x-50/"
+        },
+        {
+          "Name": "Postdozen 250 x 200 x 100",
+          "link": "https://verpakgigant.nl/product/postdozen-250-x-200-x-100/"
+        },
+        {
+          "Name": "Postdozen 300 x 240 x 100",
+          "link": "https://verpakgigant.nl/product/postdozen-300-x-240-x-100/"
+        },
+        {
+          "Name": "Postdozen 310 x 215 x 70",
+          "link": "https://verpakgigant.nl/product/postdozen-310-x-215-x-70/"
+        },
+        {
+          "Name": "Postdozen 330 x 100 x 100",
+          "link": "https://verpakgigant.nl/product/postdozen-330-x-100-x-100/"
+        },
+        {
+          "Name": "Postdozen 330 x 250 x 80",
+          "link": "https://verpakgigant.nl/product/postdozen-330-x-250-x-80/"
+        },
+        {
+          "Name": "Postdozen 350 x 220 x 130",
+          "link": "https://verpakgigant.nl/product/postdozen-350-x-220-x-130/"
+        },
+        {
+          "Name": "Postdozen 430 x 300 x 120 – A3 Verzenddoos",
+          "link": "https://verpakgigant.nl/product/postdozen-430-x-300-x-120/"
+        }
+      ]
+    }
+  },
+  "Protection & Padding Material": {
+    "Filler paper": {
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulpapier/vulpapier/",
+      "products": [
+        {
+          "Name": "Opvulpapier InPack – 70 gram/m² (350 mm x 450 m)",
+          "link": "https://verpakgigant.nl/product/opvulpapier-inpack-350-mm-x-450-m/"
+        },
+        {
+          "Name": "Opvulpapier InPack Greenline – 70 gram/m² (380 mm x 360 m)",
+          "link": "https://verpakgigant.nl/product/opvulpapier-inpack-greenline-70-gram-m-380-mm-x-360-m/"
+        },
+        {
+          "Name": "Opvulpapier ActivaPaper® – 70 gram/m² (700 mm x 350 m)",
+          "link": "https://verpakgigant.nl/product/opvulpapier-70-gram-m2-700-mm-x-350-m/"
+        },
+        {
+          "Name": "Fillpak opvulpapier 381 mm x 500 m",
+          "link": "https://verpakgigant.nl/product/fillpak-opvulpapier/"
+        },
+        {
+          "Name": "Fillpak opvulpapier 381 mm x 360 m",
+          "link": "https://verpakgigant.nl/product/fillpak-opvulpapier-381-mm-x-360-m/"
+        },
+        {
+          "Name": "Fillpak Go Opvulpapier 380 mm x 360 m",
+          "link": "https://verpakgigant.nl/product/fillpak-go-opvulpapier-380-mm-x-360-m/"
+        },
+        {
+          "Name": "Fillpak Greenline opvulpapier 381 mm x 360 m",
+          "link": "https://verpakgigant.nl/product/fillpak-greenline-opvulpapier-381-mm-x-360-m/"
+        }
+      ]
+    },
+    "Bubble wrap": {
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/alle-varianten/",
+      "products": [
+        {
+          "Name": "Gerecyclede noppenfolie 50 cm x 100 m",
+          "link": "https://verpakgigant.nl/product/gerecyclede-noppenfolie-50-cm-x-100-m/"
+        },
+        {
+          "Name": "Bubbeltjesplastic / Noppenfolie Rol 50 cm x 100 m",
+          "link": "https://verpakgigant.nl/product/bubbeltjesplastic-noppenfolie-rol-50-cm-breed-x-100-meter-lang/"
+        },
+        {
+          "Name": "Gerecyclede noppenfolie 100 cm x 100 m",
+          "link": "https://verpakgigant.nl/product/recyclebare-noppenfolie-100-cm-x-100-m/"
+        },
+        {
+          "Name": "Luchtkussenfolie / Noppenfolie rol 100 cm x 100 m",
+          "link": "https://verpakgigant.nl/product/luchtkussenfolie-noppenfolie-rol-100-cm-x-100-m/"
+        },
+        {
+          "Name": "Bubbeltjesplastic / Noppenfolie Rol 150 cm breed x 100 meter lang",
+          "link": "https://verpakgigant.nl/product/bubbeltjesplastic-noppenfolie-rol-150-cm-breed-x-100-meter-lang/"
+        },
+        {
+          "Name": "Luchtkussenfolie / Noppenfolie Rol 200 cm x 100 m",
+          "link": "https://verpakgigant.nl/product/noppenfolie-200cm-x-100m/"
+        },
+        {
+          "Name": "Noppenfolie Grote Nop (100 cm x 50 m)",
+          "link": "https://verpakgigant.nl/product/noppenfolie-grote-nop-100-cm-x-50-m/"
+        },
+        {
+          "Name": "Gerecyclede Noppenfolie met 30% PCR plastic – 100 cm x 100 m",
+          "link": "https://verpakgigant.nl/product/30-pcr-recycled-noppenfolie-100-cm-x-100-m/"
+        },
+        {
+          "Name": "Papieren Noppenfolie 100 cm x 50 m",
+          "link": "https://verpakgigant.nl/product/papieren-noppenfolie-100-cm-x-50-m/"
+        },
+        {
+          "Name": "Papieren Noppenfolie 50 cm x 50 m",
+          "link": "https://verpakgigant.nl/product/papieren-noppenfolie-50-cm-x-50-m/"
+        },
+        {
+          "Name": "Antistatische Noppenfolie 100 cm x 100 m",
+          "link": "https://verpakgigant.nl/product/antistatische-noppenfolie-100-cm-x-100-m/"
+        }
+      ]
+    },
+    "Flo-Pak Filler Chips": {
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulchips",
+      "products": [
+        {
+          "Name": "Flo-Pak Opvulchips 500 liter",
+          "link": "https://verpakgigant.nl/product/flopak-opvulchips-500-liter/"
+        },
+        {
+          "Name": "Flo-Pak Opvulchips Bio 400 L",
+          "link": "https://verpakgigant.nl/product/flo-pak-opvulchips-bio-400-l/"
+        },
+        {
+          "Name": "Flo-Pak Opvulchips – Zwart – 500 liter",
+          "link": "https://verpakgigant.nl/product/flo-pak-opvulchips-zwart-500-liter/"
+        },
+        {
+          "Name": "Flo-Pak Opvulchips – The Environmental One – 500 liter",
+          "link": "https://verpakgigant.nl/product/flo-pak-opvulchips-the-environmental-one-500-liter/"
+        },
+        {
+          "Name": "Flo-Pak Opvulchips Bio 150 L",
+          "link": "https://verpakgigant.nl/product/flo-pak-opvulchips-bio-150-l/"
+        }
+      ]
+    },
+    "Packaging tape": {
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/verpakkingstape",
+      "products": [
+        {
+          "Name": "Verpakkingstape PP Acryl High Tack (50 mm x 66 m)",
+          "link": "https://verpakgigant.nl/product/verpakkingstape-48mm-x-66m/"
+        },
+        {
+          "Name": "Waarschuwingstape 50 mm x 66 m",
+          "link": "https://verpakgigant.nl/product/waarschuwingstape-48mm-x-66m/"
+        },
+        {
+          "Name": "Papieren Verpakkingstape 50 mm x 50 m",
+          "link": "https://verpakgigant.nl/product/papieren-verpakkingstape-50-mm-x-50-m/"
+        },
+        {
+          "Name": "Verpakkingstape PP Hotmelt (48 mm x 66 m)",
+          "link": "https://verpakgigant.nl/product/verpakkingstape-pp-hotmelt-48-mm-x-66-m/"
+        },
+        {
+          "Name": "InPack Premium Tape Dispenser",
+          "link": "https://verpakgigant.nl/product/inpack-premium-tape-dispenser/"
+        },
+        {
+          "Name": "Tapedispenser Met Rem 50mm",
+          "link": "https://verpakgigant.nl/product/tapedispenser-met-rem-50mm/"
+        },
+        {
+          "Name": "Tesa 6400 tape dispenser",
+          "link": "https://verpakgigant.nl/product/tape-dispenser/"
+        },
+        {
+          "Name": "Bedrukte PP Acryl Tape – Low Noise – 50 mm x 66 m (1 kleur)",
+          "link": "https://verpakgigant.nl/product/bedrukte-pp-acryl-tape-low-noise-50-mm-x-66-m-1-kleur/"
+        },
+        {
+          "Name": "Bedrukte PP Acryl Tape – Low Noise – 50 mm x 66 m (2 kleuren)",
+          "link": "https://verpakgigant.nl/product/bedrukte-pp-acryl-tape-50-mm-x-66-m/"
+        },
+        {
+          "Name": "Bedrukte PP Acryl Tape – Low Noise – 50 mm x 66 m (3 kleuren)",
+          "link": "https://verpakgigant.nl/product/bedrukte-pp-acryl-tape-low-noise-50-mm-x-66-m-3-kleuren/"
+        },
+        {
+          "Name": "Verpakkingstape PP Solvent (48 mm x 66 m)",
+          "link": "https://verpakgigant.nl/product/verpakkingstape-pp-solvent-48-mm-x-66-m/"
+        },
+        {
+          "Name": "Verpakkingstape PVC Solvent (50 mm x 66 m)",
+          "link": "https://verpakgigant.nl/product/verpakkingstape-pvc-solvent-50-mm-x-66-m/"
+        },
+        {
+          "Name": "Bruine Verpakkingstape PP Acryl (48 mm x 66 m)",
+          "link": "https://verpakgigant.nl/product/verpakkingstape-pp-acryl-bruin-48-mm-x-66-m/"
+        }
+      ]
+    }
+  }
+}
