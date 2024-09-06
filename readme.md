@@ -30,7 +30,7 @@ Make sure you have the following dependencies installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/product-stock-management-system.git
+    git clone https://github.com/mohdtalal3/stock-overview.git
     cd product-stock-management-system
     ```
 
